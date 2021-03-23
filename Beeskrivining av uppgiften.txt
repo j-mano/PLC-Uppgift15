@@ -1,0 +1,2 @@
+	
+Ladda ner och undersök systemet. Skapa en in- och utgångslista i CoDeSys med en organisation som du själv väljer. Addera kommentarer till varje in- och utgång. Ta en screenshot som du skickar in.
